@@ -1,0 +1,1 @@
+java -cp target/likeminds-second-1.0-SNAPSHOT.jar com.gynr.App
